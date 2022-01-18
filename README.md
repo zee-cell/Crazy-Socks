@@ -1,4 +1,4 @@
 # Crazy-Socks
-#A Secure digital escrow and paymaster services provider
+# A Secure digital escrow and paymaster services provider
 We safeguard the buyer's funds in trust until the seller delivers to the buyer what was promised. 
 Only once the buyer is happy with the goods or services received does Crazy-Escrow release the funds to the seller.
